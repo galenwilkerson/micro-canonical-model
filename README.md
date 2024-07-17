@@ -1,5 +1,8 @@
 # Microcanonical Ensemble Model Simulation
 
+<img src="./microcanonical.png" width="300" height="300">
+
+
 This repository contains a single instance simulation of a microcanonical ensemble model. The microcanonical ensemble represents an isolated system with a fixed number of particles, volume, and total energy. In this model, the energy is conserved and distributed among the particles in the system. This ensemble is particularly useful for studying isolated systems and fundamental thermodynamic properties.
 
 ## Simulation
